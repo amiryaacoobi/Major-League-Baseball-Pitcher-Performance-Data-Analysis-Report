@@ -1,0 +1,1 @@
+This analysis evaluates Major League Baseball pitcher performance metrics to identify factors contributing to success. By examining data such as ERA, strikeouts, and walk rates, the project provides insights into performance trends and player comparisons, utilizing R for statistical analysis and visualization.
